@@ -1,3 +1,8 @@
+glassface-server
+================
+
+This is the server side code for the glass face GDK app to talk to glass over web sockets. This allows us to get all sensor data form the GDK app available in javascript webapp form. 
+
 WearScript
 ===========
 WearScript combines the power of Android development on Glass with the learning curve of a website.  Go from concept to demo in a fraction of the time. For an overview check out the intro video and sample script below.  Visit http://www.wearscript.com for documentation and more information.
@@ -59,3 +64,8 @@ See [contributors](https://github.com/OpenShades/wearscript/graphs/contributors)
 * Conner Brooks (connerb)
 * Justin Chase (jujuman)
 * Alexander Conroy (geilt)
+=======
+glassface-server
+================
+
+This is the server side code for the glass face GDK app to talk to glass over web sockets. This allows us to get all sensor data form the GDK app available in javascript webapp form. 
